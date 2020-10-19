@@ -1,6 +1,6 @@
 # Among Us - Source Code
 
-Important: This project is being assembled from scratch at Unity for study purposes only (Non-profit)!
+Important: This project is being developed from scratch at Unity for study purposes only (non-profit)!
 
 Required Packages:
 
