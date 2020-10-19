@@ -4,4 +4,4 @@ Required Packages:
 
 - Cinemachine
 
-Demo: leozinh1.github.io/AmongUs-Release
+Demo: https://leozinh1.github.io/AmongUs-Release
