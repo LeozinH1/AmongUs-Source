@@ -1,4 +1,4 @@
-# AmongUs-Source
+# Among Us- Source Code
 
 Required Packages:
 
