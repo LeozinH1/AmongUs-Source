@@ -6,5 +6,4 @@ Required Packages:
 
 - Cinemachine
 
-Demo: https://leozinh1.github.io/AmongUs-Release
- [links](https://leozinh1.github.io/AmongUs-Release)
+[Demo](https://leozinh1.github.io/AmongUs-Release)
