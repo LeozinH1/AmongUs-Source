@@ -1,5 +1,7 @@
 # Among Us - Source Code
 
+Important: This project is being assembled from scratch at Unity!
+
 Required Packages:
 
 - Cinemachine
