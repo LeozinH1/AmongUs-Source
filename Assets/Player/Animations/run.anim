@@ -21,27 +21,27 @@ AnimationClip:
   - curve:
     - time: 0
       value: {fileID: 21300000, guid: f35cf54873b431b42bd780972b549e43, type: 3}
-    - time: 0.033333335
+    - time: 0.05
       value: {fileID: 21300000, guid: de6739c905d79eb479535887bd28e503, type: 3}
-    - time: 0.083333336
+    - time: 0.1
       value: {fileID: 21300000, guid: f0d026032a406334fa607ba4e75f715f, type: 3}
-    - time: 0.11666667
+    - time: 0.15
       value: {fileID: 21300000, guid: 028c5e8ad7c3ab948828c6eba469ed8d, type: 3}
-    - time: 0.16666667
-      value: {fileID: 21300000, guid: 1d0194224f588b74d897eec1519097b1, type: 3}
     - time: 0.2
-      value: {fileID: 21300000, guid: 57a9294dbf6ce6e44a201fbd24b037d1, type: 3}
+      value: {fileID: 21300000, guid: 1d0194224f588b74d897eec1519097b1, type: 3}
     - time: 0.25
+      value: {fileID: 21300000, guid: 57a9294dbf6ce6e44a201fbd24b037d1, type: 3}
+    - time: 0.3
       value: {fileID: 21300000, guid: ac201c29167be664ea7791e6bde47cbc, type: 3}
-    - time: 0.28333333
+    - time: 0.35
       value: {fileID: 21300000, guid: 5d35f82300a8d634da2bbd611229a1d1, type: 3}
-    - time: 0.33333334
+    - time: 0.4
       value: {fileID: 21300000, guid: 663eb708e5b72e74aa64f839b249a814, type: 3}
-    - time: 0.36666667
-      value: {fileID: 21300000, guid: 4176fb2fa25bc9a429d09591123983ab, type: 3}
-    - time: 0.41666666
-      value: {fileID: 21300000, guid: 52db9805e2a101d438a5bd529302dc6e, type: 3}
     - time: 0.45
+      value: {fileID: 21300000, guid: 4176fb2fa25bc9a429d09591123983ab, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: 52db9805e2a101d438a5bd529302dc6e, type: 3}
+    - time: 0.55
       value: {fileID: 21300000, guid: 2627d501b460dc74e8218105cc6b6c57, type: 3}
     attribute: m_Sprite
     path: 
@@ -79,7 +79,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.46666667
+    m_StopTime: 0.56666666
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -99,14 +99,14 @@ AnimationClip:
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events:
-  - time: 0.13333334
+  - time: 0.2
     functionName: footstep
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0.41666666
+  - time: 0.5
     functionName: footstep
     data: 
     objectReferenceParameter: {fileID: 0}
