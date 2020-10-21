@@ -11,6 +11,7 @@ public class Player : MonoBehaviour
     private bool facingRight = true;
     public float speed;     
     private float moveLimiter = 0.8f;
+    private bool spawnEnd = false;
 
     // Start is called before the first frame update
     void Start()
@@ -40,7 +41,9 @@ public class Player : MonoBehaviour
         } 
 
         // Movimenta o player
-        rb.velocity = new Vector2(movement.x * speed, movement.y * speed);
+        if(spawnEnd){
+            rb.velocity = new Vector2(movement.x * speed, movement.y * speed);
+        }
 
         // Vira o personagem para a direção que ele esta indo
         if(movement.x > 0 && !facingRight)
@@ -69,10 +72,17 @@ public class Player : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision)
     {
         animator.SetBool("Collider", true);
+
+        animator.ResetTrigger("death");
+        animator.SetTrigger("death");
     }
 
     void OnCollisionExit2D(Collision2D collisionInfo)
     {
         animator.SetBool("Collider", false);
+    }
+
+    void teste(){
+        spawnEnd = true;
     }
 }
