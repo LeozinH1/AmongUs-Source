@@ -2,6 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+/game-server/node_modules
+/game-server/.env
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
