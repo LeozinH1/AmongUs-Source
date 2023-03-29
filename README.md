@@ -5,7 +5,7 @@ Important: This project is being developed from scratch at Unity for study purpo
 Required Packages:
 
 - Cinemachine
-- https://github.com/endel/NativeWebSocket
+- Unity Netcode for objects
 
 ## Demo
 https://among-us-nine.vercel.app/
