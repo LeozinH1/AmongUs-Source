@@ -5,7 +5,4 @@ Important: This project is being developed from scratch at Unity for study purpo
 Required Packages:
 
 - Cinemachine
-- Unity Netcode for objects
-
-## Demo
-https://among-us-nine.vercel.app/
+- Unity Netcode
